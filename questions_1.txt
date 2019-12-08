@@ -1,0 +1,15 @@
+﻿1/What is 1004 divided by 2?/502/508/444/500
+2/Which of the following numbers gives 240 when added to its own square?/15/16/18/20
+3/45% of 640 + 64% of 450 = ?/576/336/566/463
+4/839.093 + 31.005 – 136.048 = ?/734.05/735/734.005/734.5
+5/Solve log15(17 + x) + log15(17 − x) = 2 to find the value of x./+-8/8/64/4
+6/Find a number which square is 625./25/15/16/22
+7/The wages of 10 workers for a six-day week is $ 1200. What are the one day’s wages of 4 workers?/40/32/80/64
+8/The roots of the quadratic equation 16x² − 17x + 5 = 0 are:/Complex and different/Complex and equal/Real and different/Real and equal
+9/5^0 is equal to/1/0/5/1.5
+10/The number of 3-digit numbers divisible by 6, is /149/166/150/151
+11/loga(9y2) is equivalent to/loga(9) + 2loga(y)/loga(9) × 2loga(y)/loga(y18)/81loga(y)
+12/4505 ÷ 5 =/901/900/91/910
+13/Solve x2 + 6x + 13 = 0/x = -3+-2i/x =6+3i/x =3-2i/x=3+3i
+14/5 + 5*(3-2) - 5 =/5/6/0/3
+15/$ 600 becomes $ 720 in 4 years when the interest is simple. If the rate of interest is increased by 2%, then what will be total amount?/$642/$724/$725/$768
